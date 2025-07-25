@@ -1,0 +1,10 @@
+{
+    "name": "Shazixnar_Translation",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/4AleRoL4/ATO-Shazixnar_Translation",
+    "description": "翻译了我个人做的mod",
+    "dependencies": [
+        "meds-Obeliskial_Essentials-1.4.0",
+        "meds-Obeliskial_Content-1.5.0"
+    ]
+}

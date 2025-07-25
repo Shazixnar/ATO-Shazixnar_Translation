@@ -1,0 +1,10 @@
+//// 艾芙琳mod专精修改 ////
+custommainperkburn2d=如果目标身上拥有五个或以下的诅咒（包括灼烧），则对敌人的灼烧会造成双倍伤害。
+//// 塞克mod专精修改 ////
+custommainperkdark2c=敌人受到的黑暗爆炸会提高每层 0.7 伤害。
+custommainperkchill2d=敌人身上的每 20 层冰冻会提高 0.1 黑暗爆炸伤害，该英雄回合结束时每 14 层冰冻也会获得 1 加固。
+//// 麦卢卡mod专精修改 ////
+customMainperkSharp1d=英雄身上的每层锐利也会增加 1 暗影伤害。
+custommainperkregeneration1c=英雄身上的每层再生也会提高 0.5% 所有抗性和 1 最大生命值。
+custommainperkvitality1a=英雄身上的每层活力转而使其最大生命值提升 8。
+custommainperkdark2c=敌人受到的黑暗爆炸会提高每层 0.7 伤害。

@@ -1,0 +1,16 @@
+//// 塞尔维 ////
+c_enchantarrows_name=附魔箭矢
+c_explosivetargets_name=爆炸标记
+c_fieryarrow_name=火焰附魔
+c_fieryshots_name=火焰箭矢
+c_fieryshot_name=灼伤射击
+c_fierytarget_name=炽热标记
+c_frostarrow_name=冰霜附魔
+c_frostshots_name=冰霜箭矢
+c_frostshot_name=冷冻射击
+c_frosttarget_name=寒冷标记
+c_electricarrow_name=闪电附魔
+c_electricshots_name=闪电箭矢
+c_electricshot_name=雷霆射击
+c_electrictarget_name=感电标记
+c_frostbite_name=冰霜之咬
