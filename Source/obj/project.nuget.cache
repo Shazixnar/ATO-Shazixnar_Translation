@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AHtKbumPjuo=",
+  "dgSpecHash": "uB6bS53QOO0=",
   "success": true,
-  "projectFilePath": "D:\\Workspace\\ATOmod\\ATO-Translation\\Source\\MoreTranslations.csproj",
+  "projectFilePath": "D:\\Workspace\\ATOmod\\ATO-Shazixnar_Translation\\Source\\MoreTranslations.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alero\\.nuget\\packages\\bepinex.analyzers\\1.0.8\\bepinex.analyzers.1.0.8.nupkg.sha512",
     "C:\\Users\\alero\\.nuget\\packages\\bepinex.baselib\\5.4.20\\bepinex.baselib.5.4.20.nupkg.sha512",

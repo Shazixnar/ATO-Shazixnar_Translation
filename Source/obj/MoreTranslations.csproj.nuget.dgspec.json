@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Workspace\\ATOmod\\ATO-Translation\\Source\\MoreTranslations.csproj": {}
+    "D:\\Workspace\\ATOmod\\ATO-Shazixnar_Translation\\Source\\MoreTranslations.csproj": {}
   },
   "projects": {
-    "D:\\Workspace\\ATOmod\\ATO-Translation\\Source\\MoreTranslations.csproj": {
+    "D:\\Workspace\\ATOmod\\ATO-Shazixnar_Translation\\Source\\MoreTranslations.csproj": {
       "version": "1.1.2",
       "restore": {
-        "projectUniqueName": "D:\\Workspace\\ATOmod\\ATO-Translation\\Source\\MoreTranslations.csproj",
+        "projectUniqueName": "D:\\Workspace\\ATOmod\\ATO-Shazixnar_Translation\\Source\\MoreTranslations.csproj",
         "projectName": "MoreTranslations",
-        "projectPath": "D:\\Workspace\\ATOmod\\ATO-Translation\\Source\\MoreTranslations.csproj",
+        "projectPath": "D:\\Workspace\\ATOmod\\ATO-Shazixnar_Translation\\Source\\MoreTranslations.csproj",
         "packagesPath": "C:\\Users\\alero\\.nuget\\packages\\",
-        "outputPath": "D:\\Workspace\\ATOmod\\ATO-Translation\\Source\\obj\\",
+        "outputPath": "D:\\Workspace\\ATOmod\\ATO-Shazixnar_Translation\\Source\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "D:\\Workspace\\ATOmod\\ATO-Translation\\Source\\NuGet.Config",
+          "D:\\Workspace\\ATOmod\\ATO-Shazixnar_Translation\\Source\\NuGet.Config",
           "C:\\Users\\alero\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
