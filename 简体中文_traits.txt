@@ -4,7 +4,7 @@ shazixnarmarkofdeath_description=标记 +2，预见 +2，敌人身上的标记�
 shazixnarmasterofmeleeandranged=近远攻击大师
 shazixnarmasterofmeleeandranged_description=打出一张“近战攻击”牌时，抽 1 张牌，获得 1 强效，在你的手牌中加入一张费用 -3 的随机“远程攻击”牌，打出后消耗。<br>打出一张“远程攻击”牌时，获得 1 能量，对目标施加 2 标记，在你的手牌中加入一张费用 -3 的随机“近战攻击”牌，打出后消耗。（4 次/回合）
 shazixnarmasteroftrack=寻迹大师
-shazixnarmasteroftrack_=敌人身上的每层预见会减少其 0.2% 伤害输出和所有抗性。<br>打出一张“技能”牌时，抽 1 张牌，对所有敌人施加 2 预见。（2 次/回合）
+shazixnarmasteroftrack_description=敌人身上的每层预见会减少其 0.2% 伤害输出和所有抗性。<br>打出一张“技能”牌时，抽 1 张牌，对所有敌人施加 2 预见。（2 次/回合）
 shazixnarmercilesshunter=无情猎手
 shazixnarmercilesshunter_description=你击中带有标记的怪物时，会对目标造成其标记充能 2 倍的挥砍或刺击伤害（随机选择）。<br>敌人身上的每层流血会提高 1% 的标记伤害。
 //// 塞尔维 ////
