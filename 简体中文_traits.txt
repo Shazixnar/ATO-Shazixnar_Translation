@@ -1,12 +1,21 @@
+//// 安德兰 ////
+shazixnarmarkofdeath=死亡印记
+shazixnarmarkofdeath_description=标记 +2，预见 +2，敌人身上的标记最大层数改为 75。<br>敌人身上的每层标记会降低 0.3% 所有抗性。
+shazixnarmasterofmeleeandranged=近远攻击大师
+shazixnarmasterofmeleeandranged_description=打出一张“近战攻击”牌时，抽 1 张牌，获得 1 强效，在你的手牌中加入一张费用 -3 的随机“远程攻击”牌，打出后消耗。<br>打出一张“远程攻击”牌时，获得 1 能量，对目标施加 2 标记，在你的手牌中加入一张费用 -3 的随机“近战攻击”牌，打出后消耗。（4 次/回合）
+shazixnarmasteroftrack=寻迹大师
+shazixnarmasteroftrack_=敌人身上的每层预见会减少其 0.2% 伤害输出和所有抗性。<br>打出一张“技能”牌时，抽 1 张牌，对所有敌人施加 2 预见。（2 次/回合）
+shazixnarmercilesshunter=无情猎手
+shazixnarmercilesshunter_description=你击中带有标记的怪物时，会对目标造成其标记充能 2 倍的挥砍或刺击伤害（随机选择）。<br>敌人身上的每层流血会提高 1% 的标记伤害。
 //// 塞尔维 ////
 sylviearchersintuition=弓箭手的直觉
-sylviearchersintuition_description=打出一张耗费能量的“远程攻击”牌时，返还 1 能量，并对所有敌人施加 5 预见。（3 次/回合）
+sylviearchersintuition_description=打出一张“远程攻击”牌时，获得 1 能量，并对所有敌人施加 3 预见。（3 次/回合）
 sylviearrowwithhawk=箭与鹰
 sylviearrowwithhawk_description=锐利 +2。将你的宠物槽替换为“哈利”的腐化版。<br>打出一张“远程攻击”牌时，在你的手牌中加入一张费用为 0 的随机“远程攻击”牌，打出后消耗。（4 次／回合）
 sylvieelementlock=元素锁定
 sylvieelementlock_description=当你对目标施加灼烧、冰冻或感电时，同时施加 X 预见（X 等于你施加灼烧、冰冻或感电的层数）（不会和装备联动）。
 sylviepowerfulenchantment=强力附魔
-sylviepowerfulenchantment_description=敌人身上的每层灼烧减少 0.7% 火焰抗性和 0.3% 刺击抗性。<br>敌人身上每 5 层冰冻提高受到的刺击伤害 1 点。<br>你使用感电击中怪物时，还会对目标造成其感电充能 15% 的电击伤害。
+sylviepowerfulenchantment_description=敌人身上的每层灼烧减少 0.7% 火焰抗性和 0.3% 刺击抗性。<br>敌人身上每 5 层冰冻提高受到的刺击伤害 1 点。<br>你击中带有感电的怪物时，还会对目标造成其感电充能 15% 的电击伤害。
 //// 艾芙琳 ////
 evelynelementalamplifier=元素增幅器
 evelynelementalamplifier_description=灼烧、冰冻和感电 +2。<br>当敌人身上有 200 层灼烧、冰冻和感电时，承受 600 火焰、寒冰和闪电伤害，并移除所有灼烧、冰冻和感电层数。
@@ -20,7 +29,7 @@ zekdarkestabyss_description=黑暗 +2。<br>敌人身上的每层黑暗增加 5%
 zekdarkfeast=黑暗盛宴
 zekdarkfeast_description=黑暗 +2。敌人身上的每层黑暗降低 1.5% 暗影抗性。<br>回合开始时，若你拥有 5（20） 黑暗，将你的手牌费用减少 1（2），直到丢弃为止。
 zekfrozendark=霜结黑暗
-zekfrozendark_description=黑暗 +1。你拥有腐化的寒冰法术（在城镇商店找到它们），敌人身上的冰冻最大层数为 100。<br>打出一张耗费能量的“暗影法术”牌时，对所有敌人施加 1 灾祸和 1 冰冻，打出一张耗费能量的“寒冰法术”牌时，返还 1 能量，对所有敌人施加 1 黑暗。（4 次/回合）
+zekfrozendark_description=黑暗 +1。你拥有腐化的寒冰法术（在城镇商店找到它们），敌人身上的冰冻最大层数为 100。<br>打出一张“暗影法术”牌时，对所有敌人施加 1 灾祸和 1 冰冻，打出一张“寒冰法术”牌时，获得 1 能量，对所有敌人施加 1 黑暗。（4 次/回合）
 //// 麦卢卡 ////
 shazixnarhealingbrew=愈露药酒
 shazixnarhealingbrew_description=英雄最大生命值每有 9 点超过 120 点，即可增加 0.2 所有伤害和提升 2% 伤害输出。<br>打出一张耗费能量的“治疗法术”或“暗影法术”牌时，返还 1 能量，赋予伤势最重要的英雄 2 再生和 1 活力。（3 次/回合）

@@ -1,3 +1,6 @@
+//// 安德兰 ////
+c_inhibit_name=压制
+c_search_name=搜寻
 //// 塞尔维 ////
 c_enchantarrows_name=附魔箭矢
 c_explosivetargets_name=爆炸标记
