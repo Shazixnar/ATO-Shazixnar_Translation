@@ -2,11 +2,13 @@
 shazixnarmarkofdeath=死亡印记
 shazixnarmarkofdeath_description=标记 +2，预见 +2，敌人身上的标记最大层数改为 75。<br>敌人身上的每层标记会降低 0.3% 所有抗性。
 shazixnarmasterofmeleeandranged=近远攻击大师
-shazixnarmasterofmeleeandranged_description=打出一张“近战攻击”牌时，抽 1 张牌，获得 1 强效，在你的手牌中加入一张费用 -3 的随机“远程攻击”牌，打出后消耗。<br>打出一张“远程攻击”牌时，获得 1 能量，对目标施加 2 标记，在你的手牌中加入一张费用 -3 的随机“近战攻击”牌，打出后消耗。（4 次/回合）
+shazixnarmasterofmeleeandranged_description=打出一张“近战攻击”牌时，抽 1 张牌，获得 1 强效，在你的手牌中加入一张费用 -3 的随机“远程攻击”牌，打出后消耗。<br>打出一张“远程攻击”牌时，获得 1 能量，对所有敌人施加 2 标记，在你的手牌中加入一张费用 -3 的随机“近战攻击”牌，打出后消耗。（4 次/回合）
 shazixnarmasteroftrack=寻迹大师
 shazixnarmasteroftrack_description=敌人身上的每层预见会减少其 0.2% 伤害输出和所有抗性。<br>打出一张“技能”牌时，抽 1 张牌，对所有敌人施加 2 预见。（2 次/回合）
 shazixnarmercilesshunter=无情猎手
 shazixnarmercilesshunter_description=你击中带有标记的怪物时，会对目标造成其标记充能 2 倍的挥砍或刺击伤害（随机选择）。<br>敌人身上的每层流血会提高 1% 的标记伤害。
+shazixnartracker=追踪者
+shazixnartracker_description=在你的回合开始时，对所有敌人施加 1 标记。
 //// 塞尔维 ////
 sylviearchersintuition=弓箭手的直觉
 sylviearchersintuition_description=打出一张“远程攻击”牌时，获得 1 能量，并对所有敌人施加 3 预见。（3 次/回合）
