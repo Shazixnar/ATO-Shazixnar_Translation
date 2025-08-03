@@ -18,6 +18,17 @@ sylvieelementlock=元素锁定
 sylvieelementlock_description=当你对目标施加灼烧、冰冻或感电时，同时施加 X 预见（X 等于你施加灼烧、冰冻或感电的层数）（不会和装备联动）。
 sylviepowerfulenchantment=强力附魔
 sylviepowerfulenchantment_description=敌人身上的每层灼烧减少 0.7% 火焰抗性和 0.3% 刺击抗性。<br>敌人身上每 5 层冰冻提高受到的刺击伤害 1 点。<br>你击中带有感电的怪物时，还会对目标造成其感电充能 15% 的电击伤害。
+//// 索斯 ////
+shazixnarnightstalker=夜行者
+shazixnarnightstalker_description=战斗开始时获得 2 潜行。<br>打出一张“技能”或“附魔”牌时，不会失去潜行层数。（2 次／回合）
+shazixnarshadowexecution=绝杀之影
+shazixnarshadowexecution_description=潜行 +1。夜行者每回合有额外两次机会。<br>每场战斗一次，打出一张“近战攻击”牌时，不会失去潜行层数，且当次享受双倍潜行加成。
+shazixnarsilentfang=暗中毒刃
+shazixnarsilentfang_description=中毒 +1。敌人身上的中毒会在回合开始时造成一半伤害，回合结束时造成另一半伤害。<br>打出一张“小型武器”牌时，在你的手牌中加入一张“迅切”牌， 5% 的概率获得腐化版本。（6 次／回合）
+shazixnarvenomousshade=毒隐猎杀
+shazixnarvenomousshade_description=夜行者每回合有额外两次机会。<br>敌人身上的中毒不会再造成伤害，每层降低 0.3% 所有抗性。<br>当你获得潜行时，对所有敌人施加 5 中毒。
+shazixnarvenomshadow=剧毒刃影
+shazixnarvenomshadow_description=暗中毒刃每回合有额外两次机会，且概率提升为 10%。<br>当你造成伤害时，对目标施加 1 中毒。敌人身上的每层中毒会提升 0.1 承受伤害。
 //// 艾芙琳 ////
 evelynelementalamplifier=元素增幅器
 evelynelementalamplifier_description=灼烧、冰冻和感电 +2。<br>当敌人身上有 200 层灼烧、冰冻和感电时，承受 600 火焰、寒冰和闪电伤害，并移除所有灼烧、冰冻和感电层数。
