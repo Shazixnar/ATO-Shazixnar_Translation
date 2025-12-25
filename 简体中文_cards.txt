@@ -1,6 +1,10 @@
 //// 安德兰 ////
 c_inhibit_name=压制
 c_search_name=搜寻
+c_reconnoiter_name=侦察
+c_formulateplan_name=制定计划
+c_logisticalsupport_name=后勤补给
+c_tacticalbriefing_name=战术简报
 //// 塞尔维 ////
 c_enchantarrows_name=附魔箭矢
 c_explosivetargets_name=爆炸标记
